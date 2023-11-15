@@ -1,7 +1,7 @@
 {
     "firstName":"alex",
     "lastName":"prodan",
-    "email":"aprodan029@gmail.com",
+    "email":"test12@gmail.com",
     "password":"parola",
     "role":"admin"
 }
@@ -9,7 +9,7 @@
 {
     "firstName":"test",
     "lastName":"test",
-    "email":"test@gmail.com",
+    "email":"test22@gmail.com",
     "password":"parola",
     "role":"user"
 }

@@ -16,10 +16,4 @@ public class IMDbProjectApplication {
 		SpringApplication.run(IMDbProjectApplication.class, args);
 	}
 
-//	@Bean(name="entityManagerFactory")
-//	public LocalSessionFactoryBean sessionFactory() {
-//		LocalSessionFactoryBean sessionFactory = new LocalSessionFactoryBean();
-//
-//		return sessionFactory;
-//	}
 }
