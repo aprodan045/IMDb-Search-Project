@@ -37,4 +37,3 @@ The project is not using any movies related database or any other api for gettin
 ### Author
 * [Alex Prodan](https://github.com/aprodan045)
 
-### Demo
