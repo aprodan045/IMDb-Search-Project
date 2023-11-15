@@ -1,0 +1,16 @@
+{
+    "firstName":"alex",
+    "lastName":"prodan",
+    "email":"aprodan029@gmail.com",
+    "password":"parola",
+    "role":"admin"
+}
+
+{
+    "firstName":"test",
+    "lastName":"test",
+    "email":"test@gmail.com",
+    "password":"parola",
+    "role":"user"
+}
+
